@@ -1,2 +1,2 @@
-print("Hello Again!")
-print("Again again!")
+print(9//3)
+print(52//3)
